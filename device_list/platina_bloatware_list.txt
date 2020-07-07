@@ -1,0 +1,13 @@
+com.bsp.catchlog
+com.milink.service
+com.mipay.wallet.id
+com.mipay.wallet.in
+com.miui.audioeffect
+com.miui.cit
+com.xiaomi.mipicks
+com.android.browser
+com.miui.calculator
+com.android.calendar
+com.facebook.system
+com.facebook.services
+com.facebook.appmanager
