@@ -42,3 +42,14 @@ com.miui.analytics
 com.xiaomi.discover
 com.miui.cloudservice.sysbase
 com.miui.micloudsync
+com.miui.screenrecorder
+com.android.wallpaper.livepicker
+com.miui.wmsvc
+com.google.android.tts
+com.android.bookmarkprovider
+com.android.dreams.phototable
+com.android.dreams.basic
+com.google.android.feedback
+com.miui.mishare.connectivity
+com.miui.freeform
+com.miui.phrase
