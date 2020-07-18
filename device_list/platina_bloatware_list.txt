@@ -1,3 +1,6 @@
+These i uninstall with:
+pm uninstall -k --user 0 <package_name>
+
 com.bsp.catchlog
 com.milink.service
 com.mipay.wallet.id
@@ -53,3 +56,7 @@ com.google.android.feedback
 com.miui.mishare.connectivity
 com.miui.freeform
 com.miui.phrase
+com.miui.huanji
+
+Reports say uninstalling Xiaomi Service Framework can cause issues so i just disable it with:
+pm disable-user --user 0 com.xiaomi.xmsf
