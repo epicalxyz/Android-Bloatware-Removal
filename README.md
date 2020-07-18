@@ -2,7 +2,17 @@
 
 ## Disclaimer: Use this instructions at your own risk. I am not responsible for anything that can happen as a result of following this instructions.
 
-This is how to remove Bloatware from Xiaomi phones, i have tried other methods like [Universal Android Debloater](https://gitlab.com/W1nst0n/universal-android-debloater), but i was having alot of issues with it so i did something more simple that acomplish the objective.
+- Option 1:
+
+### Using a graphical interface: https://github.com/Szaki/XiaomiADBFastbootTools
+
+- Option 2:
+
+### Using a more complete tool but trminal based: https://gitlab.com/W1nst0n/universal-android-debloater
+
+- Option 3:
+
+### Terminal based, simple and probably universal method:
 
 These instructions are standard enough that will probably work with any other brand/model if the Android version is not too old. Just the packages name are different from brand/model, but the backup and removal process is the same.
 
