@@ -1,0 +1,19 @@
+These i uninstall with:
+pm uninstall -k --user 0 <package_name>
+
+com.facebook.system
+com.facebook.services
+com.facebook.appmanager
+
+com.android.chrome
+com.google.android.youtube
+com.google.android.apps.tachyon
+com.google.ar.lens
+com.google.android.gm
+com.google.android.apps.maps
+com.google.android.googlequicksearchbox
+
+com.miui.videoplayer
+com.mi.globalbrowser
+com.miui.miservice
+com.miui.weather2
