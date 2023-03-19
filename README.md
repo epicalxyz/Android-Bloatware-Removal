@@ -89,15 +89,25 @@ Lists for devices with Xiaomi OS installed:
 - Mi 8 Lite (Platina)
 - Redmi Note 7 (Lavender)
 
-# Now removing packages
+# Deactivate/Remove a package:
 
-### Enter shell with the command:
+To just deactivate an app:
 
 ```
-adb shell
+pm disable-user --user 0 <package_name>
 ```
 
-### Remove a package:
+Just change <package_name> with the name of the package.
+
+Example:
+
+```
+pm disable-user --user 0 com.facebook.system
+```
+
+### Uninstall is unsafer in case you make a mistake and remove an app that creates an issue in your device, make sure you have backed up all apps first.
+
+To completely uninstall an app:
 
 ```
 pm uninstall -k --user 0 <package_name>
