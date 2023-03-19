@@ -89,9 +89,9 @@ Lists for devices with Xiaomi OS installed:
 - Mi 8 Lite (Platina)
 - Redmi Note 7 (Lavender)
 
-# Deactivate/Remove a package:
+# Disable/Remove a package:
 
-To just deactivate an app:
+To just disable an app:
 
 ```
 pm disable-user --user 0 <package_name>
