@@ -1,5 +1,5 @@
 These i uninstall with:
-pm uninstall -k --user 0 <package_name>
+adb shell pm uninstall -k --user 0 <package_name>
 
 com.facebook.system
 com.facebook.services
