@@ -1,0 +1,7 @@
+I just deactivated this apps with:
+adb shell pm disable-user --user 0 <package_name>
+
+foundation.e.mail
+foundation.e.notes
+foundation.e.tasks
+foundation.e.browser
